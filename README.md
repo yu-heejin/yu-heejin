@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![yu-heejin's github stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&show_icons=true)
-![yu-heejin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-heejin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yu-heejin)
 ### 양갱이의 두근두근 붕어빵게임
 👉 https://play.google.com/store/apps/details?id=com.solar2d.app
 
