@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### 양갱이의 두근두근 붕어빵게임
 👉 https://play.google.com/store/apps/details?id=com.solar2d.app
 
-- 
 ### I used
 * **Design**   
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>   
