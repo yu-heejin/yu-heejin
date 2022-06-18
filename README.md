@@ -2,19 +2,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yu%20Hee%20Jin's%20Github&fontColor=FFFFFF)
 
-## Welcome to my Github ✌️   
+### Welcome to my Github ✌️   
 ![yu-heejin's github stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&show_icons=true)
 
-  
-## Look at 🙃
+  　
+### Look at 🙃
 <b>😺 양갱이의 두근두근 붕어빵 게임 (download 500+) 😺</b>  
 https://play.google.com/store/apps/details?id=com.solar2d.app   
   
 <b>📒 Diary App 📒</b>   
 coming soon!
   
-## Tech Stack ✈️
-### I'm used
+  　
+### Tech Stack ✈️
+#### I'm used
   
 **🖌️ Design 🖌️**   
   
@@ -36,7 +37,8 @@ coming soon!
   
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
 
-### I'm Studing
+  　
+#### I'm Studing
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   
 </div>
