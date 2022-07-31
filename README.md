@@ -13,7 +13,7 @@ https://play.google.com/store/apps/details?id=com.solar2d.app
 <b>📒 Diary App 📒</b>   
 coming soon!
 
-<b> About Me!</b>
+<b> About Me!</b>  
 https://delicious-polyester-fd5.notion.site/1b208c4b4b894c0fbfeca5980bdb7f1d
   
   　
