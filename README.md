@@ -2,8 +2,7 @@
 
 
 ### Welcome to my Github ✌️   
-![yu-heejin's github stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&show_icons=true)
-
+![yu-heejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&count_private=true)
   　
 ### Look at 🙃
 <b>😺 양갱이의 두근두근 붕어빵 게임 (download 500+) 😺</b>  
