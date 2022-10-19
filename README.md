@@ -4,9 +4,10 @@
 ## About Me 💫
 - Dongduk Women’s University Computer Science 20
 - SeongNam, Republic of Korea
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white&link=https://lab.hanium.or.kr/jkgt0521)](https://lab.hanium.or.kr/jkgt0521)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white&link=https://lab.hanium.or.kr/jkgt0521)](https://lab.hanium.or.kr/jkgt0521)
 
 ## Project 💞
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-docker)](https://github.com/2022-SeongNam-Team-C/Ladder-docker.git)
 
 ## Tech Stack ✈️
 #### Frontend
