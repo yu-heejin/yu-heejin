@@ -9,7 +9,7 @@
 ## Experience 😎
 - SeongNam Youth Bootcamp PreInternship 3rd, 4th Team Leader
 - Hanium ICT Mentoring Team Leader
-- Techeer 2nd Member
+- silicon valley Bootcamp Techeer 2nd Member
 
 ## Project 💞
 ### Medium.com
