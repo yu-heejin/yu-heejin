@@ -6,6 +6,11 @@
 - SeongNam, Republic of Korea
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white&link=https://lab.hanium.or.kr/jkgt0521)](https://lab.hanium.or.kr/jkgt0521)
 
+## Experience 😎
+- SeongNam Youth Bootcamp PreInternship 3rd, 4th Team Leader
+- Hanium ICT Mentoring Team Leader
+- Techeer 2nd Member
+
 ## Project 💞
 ### Medium.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Medium-Log)](https://github.com/yu-heejin/Medium-Log.git)  
