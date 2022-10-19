@@ -15,18 +15,32 @@
 ## Project 💞
 ### Medium.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Medium-Log)](https://github.com/yu-heejin/Medium-Log.git)  
-### Trip In World
+### Trip In World (2022.10 ~)
+> Travel Log Website Project for Travelers
+>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trip-In-World&repo=Trip-In-World-Frontend)](https://github.com/Trip-In-World/Trip-In-World-Frontend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trip-In-World&repo=Trip-In-World-Backend)](https://github.com/Trip-In-World/Trip-In-World-Backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trip-In-World&repo=Trip-In-World-Docker)](https://github.com/Trip-In-World/Trip-In-World-Docker.git)
-### TAB (Tech Assistant Buddy)
-### Ladder
+### TAB (Tech Assistant Buddy) (2022.10 ~)
+> App Project for developer
+>
+### Ladder (2022.08.27 ~ 2022.10.01)
+> Website Project changing recognized person in picture
+>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-docker)](https://github.com/2022-SeongNam-Team-C/Ladder-docker.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Backend)](https://github.com/2022-SeongNam-Team-C/Ladder-backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-AI)](https://github.com/2022-SeongNam-Team-C/Ladder-AI.git) 
-### Hygge
+### Hygge (2022.07 ~ 2022.12)
+> The youth shelter chatbot App Project for teenager
+>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-chatbot-kotlin-project&repo=2022-chatbot-kotlin-Backend)](https://github.com/2022-chatbot-kotlin-project/2022-chatbot-kotlin-Backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-chatbot-kotlin-project&repo=2022-chatbot-kotlin-Frontend)](https://github.com/2022-chatbot-kotlin-project/2022-chatbot-kotlin-Frontend.git)
-### Police In My Pocket
+### Police In My Pocket (2022.04.15 ~ 2022.11.30)
+> App Project for my safety in Emergency
+>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-Frontend)](https://github.com/hanium-project/Police-in-my-pocket-Frontend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-Backend)](https://github.com/hanium-project/Police-in-my-pocket-Backend.git)
-### In For Plan
+### In For Plan (2022.03.02 ~ 2022.08.13)
+> Website Project for Online meeting schedule
+>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-g-techeer&repo=In-For-Plan-Backend)](https://github.com/team-g-techeer/In-For-Plan-Backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-g-techeer&repo=In-For-Plan-Frontend)](https://github.com/team-g-techeer/In-For-Plan-Frontend.git)
-### Be The Character
+### Be The Character (2022.01.17 ~ 2022.02.19)
+> App Project changing your face to Ghibli Studio Character
+>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=PreInternship)](https://github.com/yu-heejin/PreInternship.git)
 
 ## Tech Stack ✈️
