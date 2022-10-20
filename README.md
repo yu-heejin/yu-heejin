@@ -13,8 +13,9 @@
 - SeongNam Youth Bootcamp PreInternship 3rd - Team E Leader 
 
 ## Project 💞
-### Medium.com
+### Etc Project repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Medium-Log)](https://github.com/yu-heejin/Medium-Log.git)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Design)](https://github.com/yu-heejin/Design.git)
 ### Trip In World (2022.10 ~)
 > Travel Log Website Project for Travelers
 >
