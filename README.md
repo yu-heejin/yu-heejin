@@ -2,20 +2,17 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&count_private=true)  
 
 ## About Me 💫
-- Dongduk Women’s University Computer Science 20
+- Dongduk Women’s University, Computer Science 20
 - SeongNam, Republic of Korea
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white&link=https://lab.hanium.or.kr/jkgt0521)](https://lab.hanium.or.kr/jkgt0521)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white&link=https://lab.hanium.or.kr/jkgt0521)](https://lab.hanium.or.kr/jkgt0521) [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)](https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)
 
 ## Experience 😎
-- SeongNam Youth Bootcamp PreInternship 4th - Team C Leader
-- Hanium ICT Mentoring - Team Leader
-- Silicon Valley Bootcamp Techeer 2nd Member
-- SeongNam Youth Bootcamp PreInternship 3rd - Team E Leader 
+- SeongNam Youth Bootcamp PreInternship 4th - Team C Leader (2022.08.27 ~ 2022.10.01)
+- Hanium ICT Mentoring - Team Leader (2022.04.15 ~ 2022.11.30)
+- Silicon Valley Bootcamp Techeer 2nd Member (2022.03.01 ~)
+- SeongNam Youth Bootcamp PreInternship 3rd - Team E Leader (2022.01.17 ~ 2022.02.19)
 
 ## Project 💞
-### Etc Project repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Medium-Log)](https://github.com/yu-heejin/Medium-Log.git)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Design)](https://github.com/yu-heejin/Design.git)
 ### Trip In World (2022.10 ~)
 > Travel Log Website Project for Travelers
 >
@@ -43,7 +40,9 @@
 > App Project changing your face to Ghibli Studio Character
 >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=PreInternship)](https://github.com/yu-heejin/PreInternship.git)
-
+### Other Project repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Medium-Log)](https://github.com/yu-heejin/Medium-Log.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Design)](https://github.com/yu-heejin/Design.git)
 ## Tech Stack ✈️
 #### Frontend
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
