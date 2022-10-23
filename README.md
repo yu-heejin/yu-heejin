@@ -23,7 +23,7 @@
 > Website Project changing recognized person in picture
 >
 
-### Hygge (2022.07 ~ 2022.12)
+### Hygge (2022.07 ~)
 > The youth shelter chatbot App Project for teenager
 >
 
