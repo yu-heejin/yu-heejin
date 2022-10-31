@@ -6,12 +6,6 @@
 - SeongNam, Republic of Korea
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white&link=https://lab.hanium.or.kr/jkgt0521)](https://lab.hanium.or.kr/jkgt0521) [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)](https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)
 
-## Experience 😎
-- Woowacourse Precourse (2022.10.26 ~)
-- SeongNam Youth AI PreInternship 4th - Team C Leader (2022.08.27 ~ 2022.10.01)
-- Hanium ICT Mentoring - Team Leader (2022.04.15 ~ 2022.11.30)
-- SeongNam Youth AI PreInternship 3rd - Team E Leader (2022.01.17 ~ 2022.02.19)
-
 ## Project 💞
 ### Trip In World (2022.10 ~)
 > Travel Log Website Project for Travelers
