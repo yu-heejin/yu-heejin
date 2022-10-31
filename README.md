@@ -25,7 +25,7 @@
 ### Police In My Pocket (2022.04.15 ~ 2022.11.30)
 > App Project for my safety in Emergency
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-Frontend)](https://github.com/hanium-project/Police-in-my-pocket-Frontend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-Backend)](https://github.com/hanium-project/Police-in-my-pocket-Backend.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-frontend)](https://github.com/hanium-project/Police-in-my-pocket-frontend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-backend)](https://github.com/hanium-project/Police-in-my-pocket-backend.git)
 ### In For Plan (2022.03.02 ~ 2022.08.13)
 > Website Project for Online meeting schedule
 >
