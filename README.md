@@ -10,7 +10,6 @@
 - Woowacourse Precourse (2022.10.26 ~)
 - SeongNam Youth AI PreInternship 4th - Team C Leader (2022.08.27 ~ 2022.10.01)
 - Hanium ICT Mentoring - Team Leader (2022.04.15 ~ 2022.11.30)
-- Techeer 2nd Member (2022.03.01 ~)
 - SeongNam Youth AI PreInternship 3rd - Team E Leader (2022.01.17 ~ 2022.02.19)
 
 ## Project 💞
