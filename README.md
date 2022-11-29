@@ -46,5 +46,4 @@
 >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=PreInternship)](https://github.com/yu-heejin/PreInternship.git)
 ### Other Project repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Medium-Log)](https://github.com/yu-heejin/Medium-Log.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Design)](https://github.com/yu-heejin/Design.git)
