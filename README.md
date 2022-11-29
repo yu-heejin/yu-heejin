@@ -33,10 +33,6 @@
 > Website Project changing recognized person in picture
 >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-docker)](https://github.com/2022-SeongNam-Team-C/Ladder-docker.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Backend)](https://github.com/2022-SeongNam-Team-C/Ladder-backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-AI)](https://github.com/2022-SeongNam-Team-C/Ladder-AI.git) 
-### Hygge (2022.07 ~ 2022.12)
-> The youth shelter chatbot App Project for teenager
->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-chatbot-kotlin-project&repo=2022-chatbot-kotlin-Backend)](https://github.com/2022-chatbot-kotlin-project/2022-chatbot-kotlin-Backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-chatbot-kotlin-project&repo=2022-chatbot-kotlin-Frontend)](https://github.com/2022-chatbot-kotlin-project/2022-chatbot-kotlin-Frontend.git)
 ### Police In My Pocket (2022.04.15 ~ 2022.11.30)
 > App Project for my safety in Emergency
 >
