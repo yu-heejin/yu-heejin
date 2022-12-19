@@ -41,9 +41,3 @@
 > Website Project for Online meeting schedule
 >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-g-techeer&repo=In-For-Plan-Backend)](https://github.com/team-g-techeer/In-For-Plan-Backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-g-techeer&repo=In-For-Plan-Frontend)](https://github.com/team-g-techeer/In-For-Plan-Frontend.git)
-### Be The Character (2022.01.17 ~ 2022.02.19)
-> App Project changing your face to Ghibli Studio Character
->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=PreInternship)](https://github.com/yu-heejin/PreInternship.git)
-### Other Project repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yu-heejin&repo=Design)](https://github.com/yu-heejin/Design.git)
