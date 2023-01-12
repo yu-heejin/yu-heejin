@@ -1,5 +1,5 @@
 ## Welcome to my Github ✌️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&count_private=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&count_private=false)  
 
 ## About Me 💫
 - Dongduk Women’s University, Computer Science 20
