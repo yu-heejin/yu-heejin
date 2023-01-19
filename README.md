@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
 ## Project 💞
+### Solid Project - Personal Data Service Project (2023.01 ~)
+> detecting automatically Online sales products and sales information anomalies
+> >
 ### Trip In World (2023.01 ~)
 > Travel Log Website Project for Travelers
 >
