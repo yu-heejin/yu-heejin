@@ -41,13 +41,3 @@
 > Website Project for Online meeting schedule
 >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-g-techeer&repo=In-For-Plan-Backend)](https://github.com/team-g-techeer/In-For-Plan-Backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-g-techeer&repo=In-For-Plan-Frontend)](https://github.com/team-g-techeer/In-For-Plan-Frontend.git)
-
-
-## Study
-### Clean Code and Object
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Java-Object-And-Clean-Coding&repo=yu-heejin)](https://github.com/Java-Object-And-Clean-Coding/yu-heejin) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Java-Object-And-Clean-Coding&repo=practice-code)](https://github.com/Java-Object-And-Clean-Coding/practice-code)
-
-### Dongduk-Univ-Study-Project-Group
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dongduk-Univ-Study-Project-Group&repo=kotlin-study-repository)](https://github.com/Dongduk-Univ-Study-Project-Group/kotlin-study-repository)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dongduk-Univ-Study-Project-Group&repo=cs-study-repository)](https://github.com/Dongduk-Univ-Study-Project-Group/cs-study-repository)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dongduk-Univ-Study-Project-Group&repo=spring-study-repository)](https://github.com/Dongduk-Univ-Study-Project-Group/spring-study-repository)
