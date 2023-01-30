@@ -32,7 +32,7 @@
 ### TAB (Tech Assistant Buddy) (2022.10 ~)
 > App Project for developer
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Techeer3-Spring-Study&repo=TAB-Backend)](https://github.com/Techeer3-Spring-Study/TAB-Backend.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Techeer-3rd-Spring-Team-ESC&repo=TAB-Backend)](https://github.com/Techeer-3rd-Spring-Team-ESC/TAB-Backend)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
