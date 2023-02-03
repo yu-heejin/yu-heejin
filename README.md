@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 
 ## Project 💞
+### Kotlin Spring Boot Project (2023.02 ~)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dongduk-Univ-Study-Project-Group&repo=kotlin-study-backend)](https://github.com/Dongduk-Univ-Study-Project-Group/kotlin-study-backend.git)
 ### Solid Project for PSD (2023.01 ~)
 > Solid Project for Personal Data Service
 >
