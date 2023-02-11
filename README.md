@@ -17,12 +17,6 @@
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 
 ## Project 💞
-### Kotlin Spring Boot Project (2023.02 ~)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dongduk-Univ-Study-Project-Group&repo=kotlin-study-backend)](https://github.com/Dongduk-Univ-Study-Project-Group/kotlin-study-backend.git)
-### Solid Project for PSD (2023.01 ~)
-> Solid Project for Personal Data Service
->
-  
 ### Trip In World (2023.01 ~)
 > Travel Log Website Project for Travelers
 >
