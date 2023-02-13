@@ -3,7 +3,7 @@
 ## About Me
 - Dongduk Women’s University, Computer Science
 - SeongNam, Republic of Korea
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white&link=https://lab.hanium.or.kr/jkgt0521)](https://lab.hanium.or.kr/jkgt0521) [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)](https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)](https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)
 
 ## Tech Stack
 #### Frontend
