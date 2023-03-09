@@ -2,6 +2,11 @@
 
 ---
 
+### I work with ✨
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-heejin&count_private=true)  
 ## Tech Stack
 #### Frontend
