@@ -18,7 +18,7 @@
 ### Trip In World (2023.03 ~)
 > Travel Log Website Project for Travelers
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trip-In-World&repo=Trip-In-World-Frontend)](https://github.com/Trip-In-World/Trip-In-World-Frontend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trip-In-World&repo=Trip-In-World-Backend)](https://github.com/Trip-In-World/Trip-In-World-Backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trip-In-World&repo=Trip-In-World-Docker)](https://github.com/Trip-In-World/Trip-In-World-Docker.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Trip-In-World&repo=Trip-In-World-App)](https://github.com/Trip-In-World/Trip-In-World-App.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_WEB_FRONTEND)]([https://github.com/Trip-In-World/Trip-In-World-Frontend.git](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_BACKEND)](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_DEPLOY)](https://github.com/WAGGLE-TEAM/WAGGLE_DEPLOY) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_APP_FRONTEND)](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
 ### TAB (Tech Assistant Buddy) (2022.10 ~)
 > App Project for developer
 >
