@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
 
 ## Project
-### Trip In World (2023.03 ~)
+### Waggle (2023.03 ~)
 > Travel Log Website Project for Travelers
 >
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_WEB_FRONTEND)]([https://github.com/Trip-In-World/Trip-In-World-Frontend.git](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_BACKEND)](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_DEPLOY)](https://github.com/WAGGLE-TEAM/WAGGLE_DEPLOY) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_APP_FRONTEND)](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
