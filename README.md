@@ -22,7 +22,7 @@
 * [Web Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)
 * [App Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
 * [Backend](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND)
-### TAB (Tech Assistant Buddy) (2022.10 ~)
+### TAB (Tech Assistant Buddy) (2022.10 ~ 2023.03)
 > App Project for developer
 >
 **Repository**
