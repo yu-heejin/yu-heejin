@@ -32,7 +32,7 @@
 > Website Project changing recognized person in picture
 >
 **Repository**
-* [project](https://github.com/2022-SeongNam-Team-C/Ladder-docker)
+* [devOps](https://github.com/2022-SeongNam-Team-C/Ladder-docker)
 * [backend](https://github.com/2022-SeongNam-Team-C/Ladder-Backend)
 ### Police In My Pocket (2022.04.15 ~ 2022.11.30)
 > App Project for my safety in Emergency
