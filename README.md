@@ -18,21 +18,30 @@
 ### Waggle (2023.03 ~)
 > Travel Log Website Project for Travelers
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_WEB_FRONTEND)]([https://github.com/Trip-In-World/Trip-In-World-Frontend.git](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_BACKEND)](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_DEPLOY)](https://github.com/WAGGLE-TEAM/WAGGLE_DEPLOY) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WAGGLE-TEAM&repo=WAGGLE_APP_FRONTEND)](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
+**Repository**
+* [Web Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)
+* [App Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
+* [Backend](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND)
 ### TAB (Tech Assistant Buddy) (2022.10 ~)
 > App Project for developer
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Techeer3-Spring-Study&repo=TAB-Backend)](https://github.com/Techeer3-Spring-Study/TAB-Backend) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Techeer-TAB-Project-Team&repo=TAB-Backend-V2)](https://github.com/Techeer-TAB-Project-Team/TAB-Backend-V2.git)
-
+**Repository**
+* [Backend](https://github.com/Techeer3-Spring-Study/TAB-Backend)
+* [Backend (v2)](https://github.com/Techeer-TAB-Project-Team/TAB-Backend-V2)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-docker)](https://github.com/2022-SeongNam-Team-C/Ladder-docker.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-Backend)](https://github.com/2022-SeongNam-Team-C/Ladder-backend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2022-SeongNam-Team-C&repo=Ladder-AI)](https://github.com/2022-SeongNam-Team-C/Ladder-AI.git) 
+**Repository**
+* [project](https://github.com/2022-SeongNam-Team-C/Ladder-docker)
+* [backend](https://github.com/2022-SeongNam-Team-C/Ladder-Backend)
 ### Police In My Pocket (2022.04.15 ~ 2022.11.30)
 > App Project for my safety in Emergency
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-frontend)](https://github.com/hanium-project/Police-in-my-pocket-frontend.git) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hanium-project&repo=Police-in-my-pocket-backend)](https://github.com/hanium-project/Police-in-my-pocket-backend.git)
+**Repository**
+* [frontend](https://github.com/hanium-project/Police-in-my-pocket-frontend)
+* [backend](https://github.com/hanium-project/Police-in-my-pocket-backend)
 ### In For Plan (2022.03.02 ~ 2022.08.13)
 > Website Project for Online meeting schedule
 >
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-g-techeer&repo=In-For-Plan-Frontend)](https://github.com/team-g-techeer/In-For-Plan-Frontend.git)
+**Repository**
+* [frontend](https://github.com/team-g-techeer/In-For-Plan-Frontend)
