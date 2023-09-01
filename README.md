@@ -16,7 +16,7 @@
 
 ## Project
 ### GGOOMi (2023.08)
-> Draw my diary with OpenAI
+> Draw my day with DALLE ☺️
 >
 **Repository**
 * [Backend](https://github.com/prompter-day-2023/backend)
