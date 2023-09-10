@@ -17,7 +17,7 @@
 
 ## Project
 ### GGOOMi (2023.08.21 ~ 2023.09.02)
-> Draw my day with DALLE ☺️
+> Draw my diary with DALLE ☺️
 >
 **Repository**
 * [Backend](https://github.com/prompter-day-2023/backend)
