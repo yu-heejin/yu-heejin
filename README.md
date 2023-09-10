@@ -15,11 +15,16 @@
 <img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
 
 ## Project
-### GGOOMi (2023.08)
+### GGOOMi (2023.08.21 ~ 2023.09.02)
 > Draw my day with DALLE ☺️
 >
 **Repository**
 * [Backend](https://github.com/prompter-day-2023/backend)
+### Dongam (2023.07 ~)
+> A community for students at Dongduk Women's University
+>
+**Repository**
+* [Backend](https://github.com/kotlin-project-team/backend)
 ### Waggle (2023.03 ~)
 > Travel Log Website Project for Travelers
 >
@@ -27,11 +32,6 @@
 * [Web Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)
 * [App Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
 * [Backend](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND)
-### Dongam (2023.07 ~)
-> A community for students at Dongduk Women's University
->
-**Repository**
-* [Backend](https://github.com/kotlin-project-team/backend)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
