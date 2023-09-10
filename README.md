@@ -27,26 +27,25 @@
 * [Web Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)
 * [App Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
 * [Backend](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND)
-### TAB (Tech Assistant Buddy) (2022.10 ~ 2023.03)
-> App Project for developer
+### Dongam (2023.07 ~)
+> A community for students at Dongduk Women's University
 >
 **Repository**
-* [Backend](https://github.com/Techeer3-Spring-Study/TAB-Backend)
-* [Backend (v2)](https://github.com/Techeer-TAB-Project-Team/TAB-Backend-V2)
+* [Backend](https://github.com/kotlin-project-team/backend)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
 **Repository**
-* [devOps](https://github.com/2022-SeongNam-Team-C/Ladder-docker)
-* [backend](https://github.com/2022-SeongNam-Team-C/Ladder-Backend)
+* [DevOps](https://github.com/2022-SeongNam-Team-C/Ladder-docker)
+* [Backend](https://github.com/2022-SeongNam-Team-C/Ladder-Backend)
 ### Police In My Pocket (2022.04.15 ~ 2022.11.30)
 > App Project for my safety in Emergency
 >
 **Repository**
-* [frontend](https://github.com/hanium-project/Police-in-my-pocket-frontend)
-* [backend](https://github.com/hanium-project/Police-in-my-pocket-backend)
+* [Frontend](https://github.com/hanium-project/Police-in-my-pocket-frontend)
+* [Backend](https://github.com/hanium-project/Police-in-my-pocket-backend)
 ### In For Plan (2022.03.02 ~ 2022.08.13)
 > Website Project for Online meeting schedule
 >
 **Repository**
-* [frontend](https://github.com/team-g-techeer/In-For-Plan-Frontend)
+* [Frontend](https://github.com/team-g-techeer/In-For-Plan-Frontend)
