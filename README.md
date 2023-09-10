@@ -1,5 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jiny1)](https://www.linkedin.com/in/jiny1) [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yu-heejin)](https://github.com/yu-heejin) [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942)](https://delicious-polyester-fd5.notion.site/Tech-Notion-v2-21495cc544804390bd35a829437b7942) 
-* [medium.com](https://medium.com/me/stories/public)
+* [medium](https://medium.com/me/stories/public)
+* [Resume](https://o3ozzzz01.notion.site/Yu-Hee-Jin-747e1512688948ee8f6055b22432c3f7?pvs=4)
 
 ---
 
