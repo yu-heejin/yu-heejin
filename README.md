@@ -20,7 +20,7 @@
 > Draw my diary with DALLE ☺️
 >
 **Repository**
-* [Backend](https://github.com/prompter-day-2023/backend)
+* [Backend](https://github.com/prompter-day-2023)
 ### Dongam (2023.07 ~)
 > A community for students at Dongduk Women's University
 >
