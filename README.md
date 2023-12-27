@@ -25,13 +25,13 @@
 >
 **Repository**
 * [Backend](https://github.com/kotlin-project-team/backend)
-### Waggle (2023.03 ~)
+### Travity (2023.03 ~)
 > Travel Log Website Project for Travelers
 >
 **Repository**
-* [Web Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_WEB_FRONTEND)
-* [App Frontend](https://github.com/WAGGLE-TEAM/WAGGLE_APP_FRONTEND)
-* [Backend](https://github.com/WAGGLE-TEAM/WAGGLE_BACKEND)
+* [Web Frontend](https://github.com/TRAVITY-TEAM/travity-web)
+* [App Frontend](https://github.com/TRAVITY-TEAM/travity-app)
+* [Backend](https://github.com/TRAVITY-TEAM/travity-backend)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
