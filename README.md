@@ -44,8 +44,3 @@
 **Repository**
 * [Frontend](https://github.com/hanium-project/Police-in-my-pocket-frontend)
 * [Backend](https://github.com/hanium-project/Police-in-my-pocket-backend)
-### In For Plan (2022.03.02 ~ 2022.08.13)
-> Website Project for Online meeting schedule
->
-**Repository**
-* [Frontend](https://github.com/team-g-techeer/In-For-Plan-Frontend)
