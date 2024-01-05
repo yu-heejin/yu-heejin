@@ -15,7 +15,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
 
 ## Project
-### GGOOMi (2023.08.21 ~ )
+### Devridge (2023.12.28 ~)
+> Community for Developers
+>
+**Repository**
+* [Backend](https://github.com/devridge-team-project/devridge-server)
+### GGOOMi (2023.08.21 ~ 2023.09.02)
 > Draw my diary with DALLE ☺️
 >
 **Repository**
