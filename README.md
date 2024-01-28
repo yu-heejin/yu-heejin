@@ -14,13 +14,6 @@
 >
 **Repository**
 * [Backend](https://github.com/kotlin-project-team/backend)
-### Travity (2023.03 ~)
-> Travel Log Website Project for Travelers
->
-**Repository**
-* [Web Frontend](https://github.com/TRAVITY-TEAM/travity-web)
-* [App Frontend](https://github.com/TRAVITY-TEAM/travity-app)
-* [Backend](https://github.com/TRAVITY-TEAM/travity-backend)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
