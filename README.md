@@ -9,7 +9,7 @@
 >
 **Repository**
 * [Backend](https://github.com/prompter-day-2023)
-### Dongam (2023.07 ~)
+### Dongam (2023.07.01 ~ 2024.02.29)
 > A community for students at Dongduk Women's University
 >
 **Repository**
