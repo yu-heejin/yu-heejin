@@ -6,16 +6,6 @@
 >
 **Repository**
 * [Backend](https://github.com/devridge-team-project/devridge-server)
-### GGOOMi (2023.08.21 ~ 2023.09.02)
-> Draw my diary with DALLE ☺️
->
-**Repository**
-* [Backend](https://github.com/prompter-day-2023)
-### Dongam (2023.07.01 ~ 2024.02.29)
-> A community for students at Dongduk Women's University
->
-**Repository**
-* [Backend](https://github.com/kotlin-project-team/backend)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
