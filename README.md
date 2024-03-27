@@ -6,6 +6,11 @@
 >
 **Repository**
 * [Backend](https://github.com/devridge-team-project/devridge-server)
+### GGOOMi (2023.08.21 ~ 2023.09.02)
+> Draw my diary with DALLE ☺️
+>
+**Repository**
+* [Backend](https://github.com/prompter-day-2023)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
