@@ -36,5 +36,6 @@ jobs:
         git diff
         git config --local user.email "jkgt0521@naver.com"
         git config --local user.name "yu-heejin"
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/yu-heejin/yu-heejin.git
         git commit -m "Updating Blog Posts"
         git push
