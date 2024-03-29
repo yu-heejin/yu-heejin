@@ -34,8 +34,8 @@ jobs:
         git pull
         git add .
         git diff
-        git config --local user.email "jkgt0521@naver.com"
-        git config --local user.name "yu-heejin"
+        git config --global user.email "jkgt0521@naver.com"
+        git config --global user.name "yu-heejin"
         git config --global http.https://github.com/.extraheader "AUTHORIZATION: basic $(echo -n x-access-token:${{ secrets.GITHUB_TOKEN }} | base64)"
         git commit -m "Updating Blog Posts"
         git push
