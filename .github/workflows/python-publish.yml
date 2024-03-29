@@ -11,6 +11,9 @@ on:
   schedule:
       - cron: "0 0 */1 * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
 
@@ -36,6 +39,5 @@ jobs:
         git diff
         git config --global user.email "jkgt0521@naver.com"
         git config --global user.name "yu-heejin"
-        git config --global http.https://github.com/.extraheader "AUTHORIZATION: basic $(echo -n x-access-token:${{ secrets.GITHUB_TOKEN }} | base64)"
         git commit -m "Updating Blog Posts"
         git push
