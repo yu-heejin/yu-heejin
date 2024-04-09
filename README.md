@@ -29,5 +29,3 @@
 **Repository**
 * [Frontend](https://github.com/hanium-project/Police-in-my-pocket-frontend)
 * [Backend](https://github.com/hanium-project/Police-in-my-pocket-backend)
-
-## Recent Post 
