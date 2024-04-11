@@ -5,10 +5,11 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 
 markdown_text = """
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vo3ov1111)](https://solved.ac/vo3ov1111/)
 
 ## Project
-### Devridge (2023.12.28 ~)
+### Devridge (2023.12.28 ~ 2024.04.19)
 > Community for Developers
 >
 **Repository**
@@ -18,6 +19,11 @@ markdown_text = """
 >
 **Repository**
 * [Backend](https://github.com/prompter-day-2023)
+### Dongam (2023.07.01 ~ 2024.02.29)
+> A community for students at Dongduk Women's University
+>
+**Repository**
+* [Backend](https://github.com/kotlin-project-team/backend)
 ### Ladder (2022.08.27 ~ 2022.10.01)
 > Website Project changing recognized person in picture
 >
@@ -30,8 +36,6 @@ markdown_text = """
 **Repository**
 * [Frontend](https://github.com/hanium-project/Police-in-my-pocket-frontend)
 * [Backend](https://github.com/hanium-project/Police-in-my-pocket-backend)
-
-## Recent Post 
 """  # list of blog posts will be appended here
 
 for idx, feed in enumerate(RSS_FEED['entries']):
