@@ -3,7 +3,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vo3ov1111)](https://solved.ac/vo3ov1111/)
 
 ## Project
-### Devridge (2023.12.28 ~ 2024.04.19)
+### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
 >
 **Repository**
