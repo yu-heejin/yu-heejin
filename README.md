@@ -1,8 +1,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vo3ov1111)](https://solved.ac/vo3ov1111/)
 
 ## Project
-### Puppy talk (2023.07.01 ~ )
-> Let's talk to my dog!
+### Puppy Talk (2023.07.01 ~ )
+> Let's talk to my dog :)
 >
 **Repository**
 * [Backend](https://github.com/yu-heejin/puppy-talk)
