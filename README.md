@@ -2,7 +2,7 @@
 
 ## Project
 ### Puppy Talk (2023.07.01 ~ )
-> Let's talk to my dog :)
+> Let's Talk with My Dog! A Generative AI-Based Chatbot Project
 >
 **Repository**
 * [Backend](https://github.com/yu-heejin/puppy-talk)
@@ -13,7 +13,7 @@
 **Repository**
 * [Backend](https://github.com/devridge-team-project/devridge-server)
 ### Ladder (2022.08.27 ~ 2022.10.01)
-> Website Project changing recognized person in picture
+> A website project that converts people in photos into drawings.
 >
 **Repository**
 * [DevOps](https://github.com/2022-SeongNam-Team-C/Ladder-docker)
