@@ -2,14 +2,14 @@
 
 ## Project
 ### Cu&A (2024.08.24 ~ 2024.08.25)
-> The product review system for Coupang.
+> The product review system for Coupang
+> 
 **Repository**
 * [DevOps](https://github.com/coucoudas)
 
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
->
-
+>  
 **Repository**
 * [Backend](https://github.com/devridge-team-project/devridge-server)
 ### Ladder (2022.08.27 ~ 2022.10.01)
