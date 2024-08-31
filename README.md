@@ -1,11 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vo3ov1111)](https://solved.ac/vo3ov1111/)
 
 ## Project
-### Cu&A (2024.08.24 ~ 2024.08.25)
-> The product review system for Coupang
-> 
-**Repository**
-* [DevOps](https://github.com/coucoudas)
 
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
