@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vo3ov1111)](https://solved.ac/vo3ov1111/)
+<div align=center> <a href="https://github.com/hoody-lab">✨ Welcome in my Lab! ✨</a> </div>
 
 ## Project
 
