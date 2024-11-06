@@ -6,12 +6,6 @@
 > 
 **Repository**
 * [Backend / DevOps / Cloud Infra](https://github.com/coucoudas)
-
-### Course Registration Clone Coding Project (2024.02 ~ 2024.04)
-> [AWS Cloud Club] Dongduk Women's University Computer Science Department Course Registration Clone Coding Project
->
-**Repository**
-* [Backend / DevOps](https://github.com/ddwu-aws-cloud-club/team-b)
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
 >  
