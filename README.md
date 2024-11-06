@@ -2,23 +2,29 @@
 
 ## Project
 ### Cu&A (2024.08.24 ~ 2024.08.25)
-> Coupang Review Platform: Random Matching Service between Buyers and Questioners
+> [HackSeoul 2024] Coupang Review Platform: Random Matching Service between Buyers and Questioners
 > 
-**Introduce**
+**Repository**
 * [Backend / DevOps / Cloud Infra](https://github.com/coucoudas)
+
+### Course Registration Clone Coding Project (2024.02 ~ 2024.04)
+> [AWS Cloud Club] Dongduk Women's University Computer Science Department Course Registration Clone Coding Project
+>
+**Repository**
+* [Backend / DevOps](https://github.com/ddwu-aws-cloud-club/team-b)
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
 >  
 **Repository**
 * [Backend](https://github.com/devridge-team-project/devridge-server)
 ### Ladder (2022.08.27 ~ 2022.10.01)
-> A website project that converts people in photos into drawings.
+> [2022 Seongnam City Youth Foundation Project] A website project that converts people in photos into drawings.
 >
 **Repository**
 * [DevOps](https://github.com/2022-SeongNam-Team-C/Ladder-docker)
 * [Backend](https://github.com/2022-SeongNam-Team-C/Ladder-Backend)
 ### Police In My Pocket (2022.04.15 ~ 2022.11.30)
-> App Project for my safety in Emergency
+> [2022 Hanium ICT Project] App Project for my safety in Emergency
 >
 **Repository**
 * [Frontend](https://github.com/hanium-project/Police-in-my-pocket-frontend)
