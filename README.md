@@ -1,11 +1,6 @@
 <div align=center> <a href="https://github.com/hoody-lab">✨ Welcome in my Lab! ✨</a> </div>
 
 ## Project
-### Cu&A (2024.08.24 ~ 2024.08.25)
-> [HackSeoul 2024] Coupang Review Platform: Random Matching Service between Buyers and Questioners
-> 
-**Repository**
-* [Backend / DevOps / Cloud Infra](https://github.com/coucoudas)
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
 >  
