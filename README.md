@@ -1,4 +1,4 @@
-<div align=center> <a href="https://github.com/hoody-lab">✨ Welcome in my Lab! ✨</a> </div>
+<div align=center> <a href="https://github.com/ellie-playground">✨ Welcome in my Lab! ✨</a> </div>
 
 ## Project
 ### Devridge (2023.12.28 ~ 2024.04.30)
