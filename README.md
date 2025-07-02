@@ -1,6 +1,11 @@
 <div align=center> <a href="https://github.com/ellie-playground">✨ Welcome in my Lab! ✨</a> </div>
 
 ## Project
+### Puppy Talk (2025.07.02 ~)
+> Let's chat with our pup! A generative AI-powered chat application project 🐾
+>
+**Repository**
+* [Repository](https://github.com/yu-heejin/puppy-talk)
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
 >  
