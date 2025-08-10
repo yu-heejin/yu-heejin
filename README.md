@@ -5,7 +5,7 @@
 > Let's chat with our pup! A generative AI-powered chat application project 🐾
 >
 **Repository**
-* [Repository](https://github.com/yu-heejin/puppy-talk)
+* [Cloud/DevOps](https://github.com/puppy-talk/puppy-talk-server)
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > Community for Developers
 >  
