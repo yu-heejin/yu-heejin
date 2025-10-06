@@ -1,4 +1,4 @@
-<div align=center> <a href="https://github.com/ellie-playground">✨ Welcome in my Lab! ✨</a> </div>
+<div align=center> <a href="https://docs.google.com/document/d/1Xb9LQJqK22wnweEGL2xuqepfzGuILPJpUvjfcLh7Ub0/edit?usp=sharing">✨ résumé ✨</a> </div>
 
 ## Project
 ### Puppy Talk (2025.07.02 ~)
