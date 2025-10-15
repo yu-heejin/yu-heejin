@@ -1,5 +1,3 @@
-<div align=center> <a href="https://docs.google.com/document/d/1Xb9LQJqK22wnweEGL2xuqepfzGuILPJpUvjfcLh7Ub0/edit?usp=sharing">✨ résumé ✨</a> </div>
-
 ## Project
 ### Puppy Talk (2025.07.02 ~)
 > Let's chat with our pup! A generative AI-powered chat application project 🐾
