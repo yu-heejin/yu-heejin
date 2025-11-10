@@ -1,10 +1,8 @@
 ## Project
-### Puppy Talk (2025.07.02 ~)
-> Let's chat with our pup! A generative AI-powered chat application project 🐾
+### Museum? Whatisum?
+> [HackSeoul 2025 3rd prize 🎉] Beyond the Frame, Into Your World - AI-powered interactive docent app
 >
-**Repository**
-* [Cloud/DevOps](https://github.com/puppy-talk/puppy-talk-release)
-* [Chatbot](https://github.com/puppy-talk/puppy-talk-llm)
+* [Backend/DevOps](https://github.com/hackseoul-2025/backend)
 ### Devridge (2023.12.28 ~ 2024.04.30)
 > A bridge connecting developers, DEVRIDGE (Community for Developers)
 >  
