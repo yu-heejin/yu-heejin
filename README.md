@@ -1,5 +1,5 @@
 ## Project
-### Museum? Whatisum?
+### Museum? Whatisum? (2025.11.08 ~ 2025.11.09)
 > [HackSeoul 2025 3rd prize 🎉] Beyond the Frame, Into Your World - AI-powered interactive docent app
 >
 * [Backend/DevOps](https://github.com/hackseoul-2025/backend)
