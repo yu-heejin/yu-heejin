@@ -1,3 +1,5 @@
+<img src="https://git-bubble.vercel.app/api/bubble?tags=INTP%2CDocker%2CLinux%2C%EC%BB%A4%ED%94%BC%EC%A4%91%EB%8F%85%EC%9E%90&mode=tags&title=About+Me&theme=light&direction=left&width=400&fontSize=12" />
+
 ## Project
 ### Museum? Whatisum? (2025.11.08 ~ 2025.11.09)
 > [HackSeoul 2025 3rd prize 🎉] Beyond the Frame, Into Your World - AI-powered interactive docent app
