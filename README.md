@@ -1,4 +1,16 @@
-<img src="https://git-bubble.vercel.app/api/bubble?tags=INTP%2CDocker%2CLinux%2C%EC%BB%A4%ED%94%BC%EC%A4%91%EB%8F%85%EC%9E%90&mode=tags&title=About+Me&theme=light&direction=left&width=400&fontSize=12" />
+## Open Source
+
+### [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+> An extensible Kubernetes web UI
+* **[PR] Fix parseRam not handling milli-bytes (m) suffix** ([#5809](https://github.com/kubernetes-sigs/headlamp/pull/5809))
+  * Resolved a bug causing inaccurate node memory allocation displays (e.g., ~9131% instead of ~77%) by adding support for the `m` (milli-bytes) suffix.
+  * Enhanced `parseUnitsOfBytes` logic in `frontend/src/lib/units.ts` and added unit test cases in `units.test.ts`.
+
+### [mysql-mcp-server](https://github.com/YOUR_REPO_OWNER/mysql-mcp-server) <!-- Replace with the actual repository URL -->
+> MySQL Model Context Protocol (MCP) Server
+* **[PR] Fix development environment setup and pytest execution errors**
+  * Resolved `ModuleNotFoundError` during `pytest` execution by configuring `pythonpath` in `pytest.ini`.
+  * Updated `requirements-dev.txt` with missing dependencies (`mcp`, `mysql-connector-python`) to fix test environment setup issues.
 
 ## Project
 ### Museum? Whatisum? (2025.11.08 ~ 2025.11.09)
