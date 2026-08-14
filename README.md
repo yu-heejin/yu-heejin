@@ -1,13 +1,13 @@
 ## Open Source Contribute
 
 ### [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-> An extensible Kubernetes web UI
+
 * **[PR] Fix parseRam not handling milli-bytes (m) suffix** ([#5809](https://github.com/kubernetes-sigs/headlamp/pull/5809))
   * Resolved a bug causing inaccurate node memory allocation displays (e.g., ~9131% instead of ~77%) by adding support for the `m` (milli-bytes) suffix.
   * Enhanced `parseUnitsOfBytes` logic in `frontend/src/lib/units.ts` and added unit test cases in `units.test.ts`.
 
 ### [mysql-mcp-server](https://github.com/YOUR_REPO_OWNER/mysql-mcp-server) <!-- Replace with the actual repository URL -->
-> MySQL Model Context Protocol (MCP) Server
+
 * **[PR] Fix development environment setup and pytest execution errors** ([#72](https://github.com/designcomputer/mysql_mcp_server/pull/72))
   * Resolved `ModuleNotFoundError` during `pytest` execution by configuring `pythonpath` in `pytest.ini`.
   * Updated `requirements-dev.txt` with missing dependencies (`mcp`, `mysql-connector-python`) to fix test environment setup issues.
