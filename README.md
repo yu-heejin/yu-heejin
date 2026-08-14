@@ -8,7 +8,7 @@
 
 ### [mysql-mcp-server](https://github.com/YOUR_REPO_OWNER/mysql-mcp-server) <!-- Replace with the actual repository URL -->
 > MySQL Model Context Protocol (MCP) Server
-* **[PR] Fix development environment setup and pytest execution errors**
+* **[PR] Fix development environment setup and pytest execution errors** ([#72](https://github.com/designcomputer/mysql_mcp_server/pull/72))
   * Resolved `ModuleNotFoundError` during `pytest` execution by configuring `pythonpath` in `pytest.ini`.
   * Updated `requirements-dev.txt` with missing dependencies (`mcp`, `mysql-connector-python`) to fix test environment setup issues.
 
