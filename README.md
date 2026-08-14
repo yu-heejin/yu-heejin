@@ -1,4 +1,4 @@
-## Open Source
+## Open Source Contribute
 
 ### [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 > An extensible Kubernetes web UI
