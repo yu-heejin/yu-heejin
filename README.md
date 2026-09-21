@@ -6,7 +6,7 @@
   * Resolved a bug causing inaccurate node memory allocation displays (e.g., ~9131% instead of ~77%) by adding support for the `m` (milli-bytes) suffix.
   * Enhanced `parseUnitsOfBytes` logic in `frontend/src/lib/units.ts` and added unit test cases in `units.test.ts`.
 
-### [mysql-mcp-server (star 1.4k)](https://github.com/designcomputer/mysql_mcp_server))
+### [mysql-mcp-server (star 1.4k)](https://github.com/designcomputer/mysql_mcp_server)
 
 * **[PR] Fix development environment setup and pytest execution errors** ([#72](https://github.com/designcomputer/mysql_mcp_server/pull/72))
   * Resolved `ModuleNotFoundError` during `pytest` execution by configuring `pythonpath` in `pytest.ini`.
